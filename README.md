@@ -5,9 +5,9 @@
 
 <div style="display: inline_block" align="center">
   <h2>Stats</h2>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GEdO23"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=4"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true"/>
+  <img loading="lazy" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GEdO23"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=4"/>
 </div>
 
 <br/>
