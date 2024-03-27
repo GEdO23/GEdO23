@@ -1,3 +1,5 @@
+![CabecalhoCurriculo](https://github.com/GEdO23/GEdO23/assets/126673413/0d6eb614-5046-4b4c-b134-42e819386eb9)
+
 ## Hello, Gabriel here! 👋
 - 🎓 Currently studying the ways of the technology and it's magic programming.
 - 💗 In love especially with the front-end and design area.
