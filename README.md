@@ -26,11 +26,9 @@ Here on my GitHub profile, you'll find some of my best projects and experiments.
 
 ## 📊 GitHub Stats:
 
-<div style="display: inline_block" align="center">
-	<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark"/>
-	<img loading="lazy" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark"/>
-	<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=4&theme=github_dark"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=4&theme=github_dark)
 
 ## 🚀 Technologies I work with:
 
