@@ -4,31 +4,25 @@ I'm a passionate developer who enjoys building innovative solutions, designing m
 
 Here on my GitHub profile, you'll find some of my best projects and experiments.
 
-## 🔭 Currently working on:
+- 🔭 I’m currently working on [EcoWatt App](https://github.com/GEdO23/EcoWatt-App)
 
-- [💼 Price Whisper Produtos - Pricewhisper Spring API](https://github.com/GEdO23/pricewhisper-produtos)
-- [💼 Price Whisper App - Pricewhisper Android App](https://github.com/GEdO23/PriceWhisperApp)
-- [🧪 CPSB API - Petshop Spring API](https://github.com/GEdO23/cpsb-api)
-- [🎓 Aluvery - Jetpack Compose Android App](https://github.com/GEdO23/Aluvery)
-- [🎓 API Login - Spring Boot Security](https://github.com/GEdO23/api-login)
+- 🌱 I’m currently learning **Android Jetpack Compose**
 
-## 🌱 Currently learning:
+- 🖥️ I'm looking to collaborate on open-source projects related to **Android development**, **Front-end development** or **API development**.
 
-- Jetpack Compose
-- Azure DevOps: Pipelines
-- Microsoft Azure: CI/CD
-- Spring Boot Security
-- Angular CLI
+## 🏆 Trophys
 
-## 🏆 Looking to collaborate on:
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gedo23&rank=-?&theme=darkhub&no-bg=true&column=5&margin-w=15&margin-h=15" alt="gedo23" />
+  </a> 
+</p>
 
-- Open-source projects related to **Android development**, **Front-end development** or **API development**.
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=4&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
+![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=5&theme=github_dark)
 
 ## 🚀 Technologies I work with:
 
@@ -60,7 +54,6 @@ Here on my GitHub profile, you'll find some of my best projects and experiments.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 
 ### API Tools
 
