@@ -30,26 +30,26 @@ Here on my GitHub profile, you'll find some of my best projects and experiments.
 <!--Skill Icons from: [skill-icons](https://github.com/tandpfun/skill-icons)-->
 
 <div>
-  <img src="./assets/imgs/badges/badge-html5.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-css3.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-javascript.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-typescript.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-java.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-kotlin.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-csharp.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-python.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-react.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-boostrap.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-sass.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-tailwind.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-dotnet.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-spring-boot.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-git.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-docker.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-figma.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-postman.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-inkscape.svg" height="30rem">
-  <img src="./assets/imgs/badges/badge-selenium.svg" height="30rem">
+  <a href="https://www.w3schools.com/html/"><img src="./assets/imgs/badges/badge-html5.svg" height="30rem"></a>
+  <a href="https://www.w3schools.com/css/"><img src="./assets/imgs/badges/badge-css3.svg" height="30rem"></a>
+  <a href="https://www.w3schools.com/js/"><img src="./assets/imgs/badges/badge-javascript.svg" height="30rem"></a>
+  <a href="https://www.typescriptlang.org/"><img src="./assets/imgs/badges/badge-typescript.svg" height="30rem"></a>
+  <a href="https://www.java.com/"><img src="./assets/imgs/badges/badge-java.svg" height="30rem"></a>
+  <a href="https://kotlinlang.org/"><img src="./assets/imgs/badges/badge-kotlin.svg" height="30rem"></a>
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="./assets/imgs/badges/badge-csharp.svg" height="30rem"></a>
+  <a href="https://www.python.org/"><img src="./assets/imgs/badges/badge-python.svg" height="30rem"></a>
+  <a href="https://react.dev/"><img src="./assets/imgs/badges/badge-react.svg" height="30rem"></a>
+  <a href="https://getbootstrap.com/"><img src="./assets/imgs/badges/badge-boostrap.svg" height="30rem"></a>
+  <a href="https://sass-lang.com/"><img src="./assets/imgs/badges/badge-sass.svg" height="30rem"></a>
+  <a href="https://tailwindcss.com/"><img src="./assets/imgs/badges/badge-tailwind.svg" height="30rem"></a>
+  <a href="https://dotnet.microsoft.com/pt-br/"><img src="./assets/imgs/badges/badge-dotnet.svg" height="30rem"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="./assets/imgs/badges/badge-spring-boot.svg" height="30rem"></a>
+  <a href="https://git-scm.com/"><img src="./assets/imgs/badges/badge-git.svg" height="30rem"></a>
+  <a href="https://www.docker.com/"><img src="./assets/imgs/badges/badge-docker.svg" height="30rem"></a>
+  <a href="https://www.figma.com//"><img src="./assets/imgs/badges/badge-figma.svg" height="30rem"></a>
+  <a href="https://www.postman.com/"><img src="./assets/imgs/badges/badge-postman.svg" height="30rem"></a>
+  <a href="https://inkscape.org/"><img src="./assets/imgs/badges/badge-inkscape.svg" height="30rem"></a>
+  <a href="https://www.selenium.dev/"><img src="./assets/imgs/badges/badge-selenium.svg" height="30rem"></a>
 </div>
 <!--
 ### Languages
