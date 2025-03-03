@@ -1,105 +1,73 @@
-# Hello, world! 👋
+<h2>Hello, world! 👋</h2>
 
-I'm a passionate developer who enjoys building innovative solutions, designing mobile apps and the front-end of websites. 
+I'm Gabriel Eringer, a Full Stack Developer with a deep passion for technology, especially in **Front-end** and **UX/UI Design**. 
 
-Here on my GitHub profile, you'll find some of my best projects and experiments.
+<details>
+  <summary><h2>👨🏻‍💻 About Me</h2></summary>
+  
+  - :rocket: My focus is on **Full Stack Development**, with a strong passion for **Front-end** and **UX/UI Design**
+  - :eyes: Always prioritizing **user experience**, aiming to create **innovative solutions** that work and delight
+  - :sparkles: I develop **intuitive, user-friendly, and visually appealing interfaces**
+  - :heart: I am **Christian**, guided by **faith** in everything I do
+  - :telescope: Currently working on [AlparAcademy-Portifolio](https://github.com/GEdO23/AlparAcademy-Portifolio)
+  - :seedling: Learning **Android Jetpack Compose**
+  - :computer: Excited to collaborate on **open-source projects** related to **Android**, **Front-end**, or **API development**
+</details>
 
-- 🔭 I’m currently working on [AlparAcademy-Portifolio](https://github.com/GEdO23/AlparAcademy-Portifolio)
+<details>
+  <summary><h2>🏆 Trophys</h2></summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=gedo23&rank=-?&theme=darkhub&no-bg=true&column=5&margin-w=15&margin-h=15" alt="Trophys" />
+</details>
 
-- 🌱 I’m currently learning **Android Jetpack Compose**
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
-- 🖥️ I'm looking to collaborate on open-source projects related to **Android development**, **Front-end development** or **API development**.
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
+  ![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=5&theme=github_dark)
+</details>
 
-## 🏆 Trophys
+<details>
+  <summary><h2>🚀 Technologies I work with</h2></summary>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gedo23&rank=-?&theme=darkhub&no-bg=true&column=5&margin-w=15&margin-h=15" alt="gedo23" />
-  </a> 
-</p>
+  ### 🔧 Languages
+  <div>
+    <a href="https://www.w3schools.com/html/"><img src="./assets/imgs/badges/badge-html5.svg" height="30rem" alt="HTML5"></a>
+    <a href="https://www.w3schools.com/css/"><img src="./assets/imgs/badges/badge-css3.svg" height="30rem" alt="CSS3"></a>
+    <a href="https://www.w3schools.com/js/"><img src="./assets/imgs/badges/badge-javascript.svg" height="30rem" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/"><img src="./assets/imgs/badges/badge-typescript.svg" height="30rem" alt="TypeScript"></a>
+    <a href="https://www.java.com/"><img src="./assets/imgs/badges/badge-java.svg" height="30rem" alt="Java"></a>
+    <a href="https://kotlinlang.org/"><img src="./assets/imgs/badges/badge-kotlin.svg" height="30rem" alt="Kotlin"></a>
+    <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="./assets/imgs/badges/badge-csharp.svg" height="30rem" alt="C#"></a>
+    <a href="https://www.python.org/"><img src="./assets/imgs/badges/badge-python.svg" height="30rem" alt="Python"></a>
+  </div>
 
-## 📊 GitHub Stats
+  ### ⚙️ Frameworks & Libraries
+  <div>
+    <a href="https://getbootstrap.com/"><img src="./assets/imgs/badges/badge-boostrap.svg" height="30rem" alt="Bootstrap"></a>
+    <a href="https://sass-lang.com/"><img src="./assets/imgs/badges/badge-sass.svg" height="30rem" alt="SASS"></a>
+    <a href="https://tailwindcss.com/"><img src="./assets/imgs/badges/badge-tailwind.svg" height="30rem" alt="Tailwind CSS"></a>
+    <a href="https://dotnet.microsoft.com/pt-br/"><img src="./assets/imgs/badges/badge-dotnet.svg" height="30rem" alt=".NET"></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="./assets/imgs/badges/badge-spring-boot.svg" height="30rem" alt="Spring Boot"></a>
+    <a href="https://react.dev/"><img src="./assets/imgs/badges/badge-react.svg" height="30rem" alt="React"></a>
+  </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
-![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GEdO23&layout=compact&card_width=350em&langs_count=5&theme=github_dark)
+  ### Tools
+  <div>
+    <a href="https://git-scm.com/"><img src="./assets/imgs/badges/badge-git.svg" height="30rem" alt="Git"></a>
+    <a href="https://www.docker.com/"><img src="./assets/imgs/badges/badge-docker.svg" height="30rem" alt="Docker"></a>
+    <a href="https://www.figma.com/"><img src="./assets/imgs/badges/badge-figma.svg" height="30rem" alt="Figma"></a>
+    <a href="https://www.postman.com/"><img src="./assets/imgs/badges/badge-postman.svg" height="30rem" alt="Postman"></a>
+    <a href="https://inkscape.org/"><img src="./assets/imgs/badges/badge-inkscape.svg" height="30rem" alt="Inkscape"></a>
+    <a href="https://www.selenium.dev/"><img src="./assets/imgs/badges/badge-selenium.svg" height="30rem" alt="Selenium"></a>
+  </div>
+</details>
 
-## 🚀 Technologies I work with:
+<details>
+  <summary><h2>📫 How to reach me</h2></summary>
+  <p>Feel free to reach out for collaboration, open-source contributions, or just to connect!</p>
 
-<!--Badges from: [markdown-badges](https://github.com/Ileriayo/markdown-badges)-->
-<!--Skill Icons from: [skill-icons](https://github.com/tandpfun/skill-icons)-->
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.eringer.23@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eringer-de-oliveira-0ba641246)
 
-<div>
-  <a href="https://www.w3schools.com/html/"><img src="./assets/imgs/badges/badge-html5.svg" height="30rem"></a>
-  <a href="https://www.w3schools.com/css/"><img src="./assets/imgs/badges/badge-css3.svg" height="30rem"></a>
-  <a href="https://www.w3schools.com/js/"><img src="./assets/imgs/badges/badge-javascript.svg" height="30rem"></a>
-  <a href="https://www.typescriptlang.org/"><img src="./assets/imgs/badges/badge-typescript.svg" height="30rem"></a>
-  <a href="https://www.java.com/"><img src="./assets/imgs/badges/badge-java.svg" height="30rem"></a>
-  <a href="https://kotlinlang.org/"><img src="./assets/imgs/badges/badge-kotlin.svg" height="30rem"></a>
-  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="./assets/imgs/badges/badge-csharp.svg" height="30rem"></a>
-  <a href="https://www.python.org/"><img src="./assets/imgs/badges/badge-python.svg" height="30rem"></a>
-  <a href="https://react.dev/"><img src="./assets/imgs/badges/badge-react.svg" height="30rem"></a>
-  <a href="https://getbootstrap.com/"><img src="./assets/imgs/badges/badge-boostrap.svg" height="30rem"></a>
-  <a href="https://sass-lang.com/"><img src="./assets/imgs/badges/badge-sass.svg" height="30rem"></a>
-  <a href="https://tailwindcss.com/"><img src="./assets/imgs/badges/badge-tailwind.svg" height="30rem"></a>
-  <a href="https://dotnet.microsoft.com/pt-br/"><img src="./assets/imgs/badges/badge-dotnet.svg" height="30rem"></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="./assets/imgs/badges/badge-spring-boot.svg" height="30rem"></a>
-  <a href="https://git-scm.com/"><img src="./assets/imgs/badges/badge-git.svg" height="30rem"></a>
-  <a href="https://www.docker.com/"><img src="./assets/imgs/badges/badge-docker.svg" height="30rem"></a>
-  <a href="https://www.figma.com//"><img src="./assets/imgs/badges/badge-figma.svg" height="30rem"></a>
-  <a href="https://www.postman.com/"><img src="./assets/imgs/badges/badge-postman.svg" height="30rem"></a>
-  <a href="https://inkscape.org/"><img src="./assets/imgs/badges/badge-inkscape.svg" height="30rem"></a>
-  <a href="https://www.selenium.dev/"><img src="./assets/imgs/badges/badge-selenium.svg" height="30rem"></a>
-</div>
-<!--
-### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,py)](https://skillicons.dev)
-### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=sass,bootstrap,tailwind)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,spring)](https://skillicons.dev)
-### Database
-[![Database](https://skillicons.dev/icons?i=mysql,sqlite,firebase,mongodb)](https://skillicons.dev)
-### Quality Assurance
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-### DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-### API Tools
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-### Office
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
--->
-
-### IDEs
-
-[![IDEs](https://skillicons.dev/icons?i=androidstudio,idea,rider,pycharm,vscode,visualstudio,eclipse,arduino)](https://skillicons.dev)
-
-<!--TODO:
-Android,
-Expo,
-Jetpack Compose,
-Thymeleaf,
-Cucumber,
-Azure DevOps,
-Oracle SQL Developer,
-Oracle Data Modeler
--->
-
-## 📫 How to reach me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.eringer.23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eringer-de-oliveira-0ba641246)
+</details>
