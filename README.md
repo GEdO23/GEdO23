@@ -1,9 +1,14 @@
-<h2>Hello, world! 👋</h2>
+<h2>Hello, world! <img src="./assets/gifs/emoji-handwave.gif" alt="Animated emoji of a hand waving" height="22rem"></h2>
 
-I'm Gabriel Eringer, a Full Stack Developer with a deep passion for technology, especially in **Front-end** and **UX/UI Design**. 
+I'm Gabriel Eringer, a **Full Stack Developer** with a deep passion for technology, especially in **Front-end** and **UX/UI Design**.
+
+<img src="./assets/gifs/developer.gif" alt="Gif of a developer programming in a desk with three computers" height="480rem">
 
 <details>
   <summary><h2>👨🏻‍💻 About Me</h2></summary>
+
+  <img src="./assets/gifs/cat-funny.webp" alt="Gif of a gray cat crazily typing in a laptop" height="180rem">
+  <img src="./assets/gifs/cat-programming.gif" alt="Gif of a gray cat crazily typing in a laptop" height="180rem">
   
   - :rocket: My focus is on **Full Stack Development**, with a strong passion for **Front-end** and **UX/UI Design**
   - :eyes: Always prioritizing **user experience**, aiming to create **innovative solutions** that work and delight
@@ -15,12 +20,17 @@ I'm Gabriel Eringer, a Full Stack Developer with a deep passion for technology, 
 </details>
 
 <details>
-  <summary><h2>🏆 Trophys</h2></summary>
+  <summary><h2>
+  <a href="https://emoji.gg/emoji/4412_Cup" target="_blank">
+  <img src="./assets/gifs/emoji-trophy.gif" alt="Animated trophy emoji" height="22rem"></a> Trophys</h2></summary>
+
   <img src="https://github-profile-trophy.vercel.app/?username=gedo23&rank=-?&theme=darkhub&no-bg=true&column=5&margin-w=15&margin-h=15" alt="Trophys" />
 </details>
 
 <details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary><h2>
+  <a href="https://giphy.com/stickers/emoji-chart-graph-IzLejEn5juzsLN4AqX" target="_blank">
+  <img src="./assets/gifs/emoji-graph.gif" alt="Animated graph emoji" height="22rem"></a> GitHub Stats</h2></summary>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GEdO23&show_icons=true&theme=github_dark)
   ![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=GEdO23&theme=github_dark)
@@ -28,7 +38,9 @@ I'm Gabriel Eringer, a Full Stack Developer with a deep passion for technology, 
 </details>
 
 <details>
-  <summary><h2>🚀 Technologies I work with</h2></summary>
+  <summary><h2>
+  <a href="https://emojipedia.org/animated-noto-color-emoji/14.0/rocket" target="_blank">
+  <img src="./assets/gifs/emoji-rocket.gif" alt="Animated rocket emoji" height="22rem"></a> Technologies I work with</h2></summary>
 
   ### 🔧 Languages
   <div>
