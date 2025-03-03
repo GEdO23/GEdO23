@@ -4,7 +4,7 @@ I'm a passionate developer who enjoys building innovative solutions, designing m
 
 Here on my GitHub profile, you'll find some of my best projects and experiments.
 
-- 🔭 I’m currently working on [EcoWatt App](https://github.com/GEdO23/EcoWatt-App)
+- 🔭 I’m currently working on [AlparAcademy-Portifolio](https://github.com/GEdO23/AlparAcademy-Portifolio)
 
 - 🌱 I’m currently learning **Android Jetpack Compose**
 
